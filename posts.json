@@ -1,0 +1,36 @@
+[
+  {
+    "id": "p1",
+    "title": "your website used to have a mood",
+    "meta": "SEP 22, 2026 · 4 MIN READ",
+    "excerpt": "Before profiles were templates, a homepage told you something about a person before they said a word — the color they picked, the font that didn't quite fit, the song that autoplayed whether you wanted it or not.",
+    "body": [
+      "Before profiles were templates, a homepage told you something about a person before they said a word — the color they picked, the font that didn't quite fit, the song that autoplayed whether you wanted it or not.",
+      "There was no algorithm smoothing out the rough edges. If someone wanted their page to look like a bedroom wall covered in stickers, it looked like that. If they wanted total silence and a single centered photo, that was allowed too. The internet had corners, and corners had personalities.",
+      "I don't think we need to go back exactly. But I miss the decision-making. I miss a page being a choice instead of a default.",
+      "So here's mine — checkerboard and all. Not because it's efficient, but because it's mine."
+    ]
+  },
+  {
+    "id": "p2",
+    "title": "i still remember my first email password",
+    "meta": "SEP 14, 2026",
+    "excerpt": "Not because it was clever. Because choosing it felt like the first real decision the internet ever asked of me.",
+    "body": [
+      "Not because it was clever. Because choosing it felt like the first real decision the internet ever asked of me — a little string of characters that was mine and nobody else's, typed carefully into a box that felt enormous at the time.",
+      "It's a small thing to be nostalgic about. But it was the first time a website asked me who I wanted to be, even a little, and I remember taking the question seriously.",
+      "I've forgotten that password. I haven't forgotten how it felt to make it up."
+    ]
+  },
+  {
+    "id": "p3",
+    "title": "notes on doing nothing online",
+    "meta": "SEP 05, 2026",
+    "excerpt": "An argument for the aimless browse — no destination, no feed, just clicking a link because the name of it was interesting.",
+    "body": [
+      "An argument for the aimless browse — no destination, no feed, just clicking a link because the name of it was interesting, and then another, and then somehow forty minutes had passed and you'd learned about deep-sea creatures or a stranger's collection of vintage postcards.",
+      "That kind of wandering doesn't have a place to happen anymore. Every platform wants to know where you're going and get you there faster. Nobody's optimizing for the scenic route.",
+      "So consider this a small vote for the scenic route. Click around. Follow the boring link. See where it goes."
+    ]
+  }
+]
